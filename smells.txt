@@ -1,0 +1,11 @@
+Question 1:
+This code smell is an example of Duplicated code
+
+Question 2:
+This code smell is an example of Refused bequest. Moving the method can help fix this problem.
+
+Question 3:
+This is an example of Duplicated code. We can fix this but putting 1 instance in a loop
+
+Question 6:
+I can apply the refactor by putting the duplicate code into another class that both files can reference 
